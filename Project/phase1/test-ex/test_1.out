@@ -1,0 +1,56 @@
+Program (5)
+  ExtDefList (5)
+    ExtDef (5)
+      Specifier (5)
+        TYPE: int
+      FunDec (5)
+        ID: main
+        LP
+        VarList (5)
+          ParamDec (5)
+            Specifier (5)
+              TYPE: int
+            VarDec (7)
+              ID: a
+          COMMA
+          VarList (7)
+            ParamDec (7)
+              Specifier (7)
+                TYPE: char
+              VarDec (7)
+                ID: c
+        RP
+      CompSt (7)
+        LC
+        DefList (8)
+          Def (8)
+            Specifier (8)
+              TYPE: int
+            DecList (8)
+              Dec (8)
+                VarDec (8)
+                  ID: a
+                ASSIGN
+                Exp (8)
+                  INT: 1
+            SEMI
+        StmtList (9)
+          Stmt (9)
+            Exp (9)
+              ID: printf
+              LP
+              Args (9)
+                Exp (9)
+                  ID: strlen
+                  LP
+                  Args (9)
+                    Exp (9)
+                      Exp (9)
+                        ID: s
+                      ASSIGN
+                      Exp (9)
+                        FLOAT: 1.23
+                  RP
+              RP
+            SEMI
+        RC

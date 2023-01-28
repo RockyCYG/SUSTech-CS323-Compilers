@@ -1,0 +1,5 @@
+Error type A at Line 6: unknown lexeme 'breaking my own rules'
+Error type A at Line 9: unknown lexeme 5the
+Error type A at Line 10: unknown lexeme '\n'
+Error type B at Line 12: syntax error, probably Missing SEMI
+Error type B at Line 15: syntax error, probably missing RP

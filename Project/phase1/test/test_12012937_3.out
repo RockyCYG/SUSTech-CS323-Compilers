@@ -1,0 +1,155 @@
+Program (2)
+  ExtDefList (2)
+    ExtDef (2)
+      Specifier (2)
+        StructSpecifier (2)
+          STRUCT
+          ID: class
+          LC
+          DefList (3)
+            Def (3)
+              Specifier (3)
+                TYPE: int
+              DecList (3)
+                Dec (3)
+                  VarDec (3)
+                    VarDec (3)
+                      ID: pair
+                    LB
+                    INT: 90000
+                    RB
+              SEMI
+            DefList (4)
+              Def (4)
+                Specifier (4)
+                  TYPE: float
+                DecList (4)
+                  Dec (4)
+                    VarDec (4)
+                      VarDec (4)
+                        ID: k
+                      LB
+                      INT: 0
+                      RB
+                    ASSIGN
+                    Exp (4)
+                      INT: 0
+                SEMI
+              DefList (5)
+                Def (5)
+                  Specifier (5)
+                    TYPE: int
+                  DecList (5)
+                    Dec (5)
+                      VarDec (5)
+                        ID: _3333_
+                      ASSIGN
+                      Exp (5)
+                        Exp (5)
+                          ID: ic
+                        LB
+                        Exp (5)
+                          ID: kkk
+                        RB
+                  SEMI
+          RC
+      SEMI
+    ExtDefList (7)
+      ExtDef (7)
+        Specifier (7)
+          TYPE: char
+        FunDec (7)
+          ID: ccpc
+          LP
+          VarList (7)
+            ParamDec (7)
+              Specifier (7)
+                TYPE: int
+              VarDec (7)
+                ID: cy
+            COMMA
+            VarList (7)
+              ParamDec (7)
+                Specifier (7)
+                  TYPE: char
+                VarDec (7)
+                  ID: ababab
+          RP
+        CompSt (7)
+          LC
+          DefList (8)
+            Def (8)
+              Specifier (8)
+                TYPE: int
+              DecList (8)
+                Dec (8)
+                  VarDec (8)
+                    ID: cy
+                  ASSIGN
+                  Exp (8)
+                    CHAR: '@'
+              SEMI
+            DefList (9)
+              Def (9)
+                Specifier (9)
+                  TYPE: char
+                DecList (9)
+                  Dec (9)
+                    VarDec (9)
+                      ID: iii
+                    ASSIGN
+                    Exp (9)
+                      CHAR: '-'
+                SEMI
+              DefList (10)
+                Def (10)
+                  Specifier (10)
+                    TYPE: int
+                  DecList (10)
+                    Dec (10)
+                      VarDec (10)
+                        ID: vector
+                      ASSIGN
+                      Exp (10)
+                        ID: string
+                  SEMI
+          StmtList (11)
+            Stmt (11)
+              Exp (11)
+                Exp (11)
+                  Exp (11)
+                    Exp (11)
+                      Exp (11)
+                        Exp (11)
+                          Exp (11)
+                            Exp (11)
+                              Exp (11)
+                                Exp (11)
+                                  Exp (11)
+                                    Exp (11)
+                                      ID: class
+                                    DOT
+                                    ID: pa
+                                  DOT
+                                  ID: x
+                                DOT
+                                ID: yyy
+                              DOT
+                              ID: t
+                            DOT
+                            ID: tt
+                          DOT
+                          ID: t
+                        DOT
+                        ID: t
+                      DOT
+                      ID: t
+                    DOT
+                    ID: t
+                  DOT
+                  ID: s
+                ASSIGN
+                Exp (11)
+                  INT: 233
+              SEMI
+          RC

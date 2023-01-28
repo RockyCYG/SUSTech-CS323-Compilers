@@ -1,0 +1,12 @@
+struct A{
+	int apex;
+	int my;
+	float eyes;
+
+};
+int cpp()
+{
+	struct A Pheobe;
+	struct Pheobe A;
+	Pheobe.eyes=Pheobe.my;
+}

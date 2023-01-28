@@ -1,0 +1,5 @@
+Error type A at Line 13: unknown lexeme '0x#&'
+Error type A at Line 15: unknown lexeme '888'
+Error type B at Line 14: syntax error, probably Missing SEMI
+Error type A at Line 21: unknown lexeme 1.2.3....4545
+Error type A at Line 30: unknown lexeme 000

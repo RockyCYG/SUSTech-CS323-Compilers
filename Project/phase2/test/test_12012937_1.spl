@@ -1,0 +1,27 @@
+int test(char t){
+	int a = t + t;
+	return t+t;
+}
+struct A{
+};
+struct B{
+	int b;
+};
+
+int main()
+{
+	struct A aa;
+	struct A bb;
+	int a[10][10];
+	int b[15];
+	int x=1.0;
+	//a=b;
+	int tt=aa+bb;
+	{
+		//int y=5;
+		x=y+x;
+	}
+	return 1;
+	return 0;
+}	
+

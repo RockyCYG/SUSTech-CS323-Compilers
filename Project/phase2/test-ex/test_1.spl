@@ -1,0 +1,20 @@
+
+int test_array()
+{
+	int a;
+	int b;
+	int c;
+	{
+		int k=a;
+		{
+			{
+				int a=c;
+				int k=b;
+				int d=1024;
+				k=a;
+				b=k==a;
+			}
+			d = 2048;
+		}
+	}
+}

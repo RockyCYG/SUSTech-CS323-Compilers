@@ -1,0 +1,53 @@
+char k(){}
+int aa(float x)
+{
+	return x;
+}
+struct A{
+};
+struct B{
+	struct A aduf;
+};
+struct C{
+
+	struct A auuu;
+	struct B bwww;
+	struct C c;
+};
+struct C{};
+int C(){}
+int C(int a,int b){}
+int gay()
+{
+	struct C c22[10];
+	struct C deeee;
+	c22[0].c.c.c=(deeee.c.c*deeee.c.c).c.c.c;
+}
+int test_array()
+{
+	float a55;
+	float b55;
+	float c55;
+	aa(c55=(a55=b55)*(a55==b55));
+	aa(a55=b55)=(a55==b55);
+}
+struct B strc(struct A a1,struct A b1){
+	struct B c1;
+	c1.aduf=a1==b1;
+	return c1;
+}
+int cpp()
+{
+	struct A ababa;
+	struct A babab;
+	ababa=babab;
+}
+int t0()
+{
+	int i;
+	int j;
+	char yy;
+	int o;
+	i=j&&o+j+o*i+i>=o;
+	yy=yy+i;
+}

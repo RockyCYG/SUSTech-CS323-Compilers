@@ -1,0 +1,7 @@
+Error type 8 at Line 4: incompatiable return type
+Error type 15 at Line 17: redefine struct: C
+Error type 4 at Line 19: redefine function: C
+Error type 6 at Line 32: left side in assignment is rvalue
+Error type 7 at Line 36: binary operation on non-number variables
+Error type 7 at Line 52: binary operation on non-number variables
+

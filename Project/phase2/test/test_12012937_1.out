@@ -1,0 +1,10 @@
+Error type 7 at Line 2: binary operation on non-number variables
+Error type 5 at Line 2: unmatching type on both sides of assignment
+Error type 7 at Line 3: binary operation on non-number variables
+Error type 8 at Line 3: incompatiable return type
+Error type 5 at Line 17: unmatching type on both sides of assignment
+Error type 7 at Line 19: binary operation on non-number variables
+Error type 5 at Line 19: unmatching type on both sides of assignment
+Error type 1 at Line 22: undefined variable: y
+Error type 7 at Line 22: binary operation on non-number variables
+
